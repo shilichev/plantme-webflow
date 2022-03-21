@@ -1,0 +1,39 @@
+.body {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.footer {
+  width: 100%;
+  padding-bottom: 4.1rem;
+}
+.header {
+  width: calc(100% - 80px);
+}
+.main {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.title {
+  padding-top: 3.2rem;
+  padding-bottom: 2.8rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: "Nunito-Regular";
+}

@@ -1,13 +1,61 @@
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: "Nunito-Bold";
+  overflow: unset;
+  position: static;
+}
+html {
+  position: fixed;
+  overflow: unset;
+  -webkit-overflow-scrolling:unset;
+  font-size: 10px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+@font-face {
+  font-family: "Nunito-Bold";
+  src: url("./fonts/NunitoSans-Bold.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Nunito-Regular";
+  src: url("./fonts/NunitoSans-Regular.ttf");
+  font-style: normal;
+  font-weight: normal;
+}
+
+a {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration:none;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+}
+li {
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-height: 600px) {
+  html {
+    font-size: 8.6px;
+  }
+}
+
+@media screen and (min-width: 400px) {
+  html {
+    font-size: 9.5px;
+  }
+}
+
+@media screen and (min-height: 715px) {
+  html {
+    font-size: 10px;
+  }
 }

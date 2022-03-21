@@ -1,0 +1,30 @@
+.body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 0px 2.0rem;
+
+  /* Gray 6 */
+
+  background: #f2f2f2;
+  border-radius: 20px;
+
+  /* Inside auto layout */
+  margin: 0.6rem 0;
+  width: calc(100% - 84px);
+  height: 6.1rem;
+
+  font-family: "Nunito-Regular";
+  font-size: 2.0rem;
+  line-height: 3.4rem;
+  /* identical to box height, or 170% */
+
+  display: flex;
+  align-items: center;
+  text-align: center;
+
+  /* Black */
+
+  color: #000000;
+}
