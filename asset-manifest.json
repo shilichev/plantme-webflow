@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/plantme-webflow/static/css/main.e240e08c.css",
+    "main.js": "/plantme-webflow/static/js/main.4c0414ae.js",
+    "static/js/787.f748b7ea.chunk.js": "/plantme-webflow/static/js/787.f748b7ea.chunk.js",
+    "static/media/background.png": "/plantme-webflow/static/media/background.d5e254e7821109b86c84.png",
+    "static/media/messages.png": "/plantme-webflow/static/media/messages.d80aa07047f05ddc08ee.png",
+    "static/media/NunitoSans-Bold.ttf": "/plantme-webflow/static/media/NunitoSans-Bold.f2f18c2e01d2f39c18c9.ttf",
+    "static/media/NunitoSans-Regular.ttf": "/plantme-webflow/static/media/NunitoSans-Regular.25d5a42e25da2f3ed7f4.ttf",
+    "static/media/thinking-face.png": "/plantme-webflow/static/media/thinking-face.575520e26bce44ba74d9.png",
+    "static/media/scissors.png": "/plantme-webflow/static/media/scissors.a916fd8055b22edad712.png",
+    "static/media/sponge.png": "/plantme-webflow/static/media/sponge.f88654febacc7b243915.png",
+    "static/media/cat-face.png": "/plantme-webflow/static/media/cat-face.68bbf0f6de7066aa4e8d.png",
+    "static/media/potted.png": "/plantme-webflow/static/media/potted.a3705495a89aca575ce0.png",
+    "index.html": "/plantme-webflow/index.html",
+    "main.e240e08c.css.map": "/plantme-webflow/static/css/main.e240e08c.css.map",
+    "main.4c0414ae.js.map": "/plantme-webflow/static/js/main.4c0414ae.js.map",
+    "787.f748b7ea.chunk.js.map": "/plantme-webflow/static/js/787.f748b7ea.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e240e08c.css",
+    "static/js/main.4c0414ae.js"
+  ]
+}
