@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/plantme-webflow/static/css/main.07c70b63.css",
+    "main.css": "/plantme-webflow/static/css/main.1c9db90b.css",
     "main.js": "/plantme-webflow/static/js/main.e66f5b2c.js",
     "static/js/787.f748b7ea.chunk.js": "/plantme-webflow/static/js/787.f748b7ea.chunk.js",
     "static/media/background.png": "/plantme-webflow/static/media/background.d5e254e7821109b86c84.png",
@@ -13,12 +13,12 @@
     "static/media/cat-face.png": "/plantme-webflow/static/media/cat-face.68bbf0f6de7066aa4e8d.png",
     "static/media/potted.png": "/plantme-webflow/static/media/potted.a3705495a89aca575ce0.png",
     "index.html": "/plantme-webflow/index.html",
-    "main.07c70b63.css.map": "/plantme-webflow/static/css/main.07c70b63.css.map",
+    "main.1c9db90b.css.map": "/plantme-webflow/static/css/main.1c9db90b.css.map",
     "main.e66f5b2c.js.map": "/plantme-webflow/static/js/main.e66f5b2c.js.map",
     "787.f748b7ea.chunk.js.map": "/plantme-webflow/static/js/787.f748b7ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.07c70b63.css",
+    "static/css/main.1c9db90b.css",
     "static/js/main.e66f5b2c.js"
   ]
 }
